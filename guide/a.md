@@ -12,4 +12,4 @@ Some shit we just made up.
 
 ## Asymmetrical
 This shit doesn't match up. (eg in asymmetrical routing you might take a
-different path in than the one you take back etc..)
+different route *in* than the one you use to get *back* etc..)
