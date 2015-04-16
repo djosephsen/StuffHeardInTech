@@ -1,9 +1,10 @@
-As a tech-writer, I somtimes confound my editors and coworkers by creating
-phrases, clauses and occasionally entire paragraphs of incredibly
-smart-sounding but otherwise incomprehensible jibberish. If you have ever had
-to unravel something I've written (you know who you are), this guide is
-dedicated to you. 
+#when I write about engineering.. 
+I sometimes confound my coworkers and editors by creating phrases, clauses or
+occasionally entire paragraphs of incredibly smart-sounding but otherwise
+incomprehensible jibberish. If you have ever had to unravel something I've
+written (you know who you are), this guide is dedicated to you. 
 
+## Index
 [a](guide/a.md)
 [b](guide/b.md)
 [c](guide/c.md)
