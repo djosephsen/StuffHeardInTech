@@ -2,7 +2,7 @@
 
 ## Arbitrary
 Some shit we just made up.
-/you can't just insert arbitrary brackets and expect the parser to know what to do with them/
+`you can't just insert arbitrary brackets and expect the parser to know what to do with them`
 
 ## Abstraction
 The shit we use to make one kind of shit look and act like a different kind of shit. 
